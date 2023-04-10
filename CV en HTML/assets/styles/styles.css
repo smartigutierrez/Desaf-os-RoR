@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(white, teal);
+}
+header{
+    text-align: center;
+}
+div.card-body{
+    background-color: transparent;
+}
+#perfil{
+    border-radius: 50%;
+}
